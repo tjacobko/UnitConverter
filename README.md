@@ -9,3 +9,5 @@ Unit Converter takes in a desired unit and displays the following metric and imp
 
 ## How it works
 Enter a unit into the input slot and hit the **Convert** button. Enjoy the results.
+
+![alt text](https://github.com/tjacobko/UnitConverter/blob/main/UnitConverter.JPG)
